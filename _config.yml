@@ -1,4 +1,15 @@
+name: Jonah And The Idea
+analytics: {}
 purpose: []
+github: true
+description: Jonah Sanders Portfolio
+cta:
+  bucket: null
+  version: null
+  domain: null
+author:
+  name: Jonah Sanders
+  email: jonah@jonahandtheidea.com
 collections:
   - index:
       path: /
@@ -11,9 +22,8 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+layout_spectrum: 0.9032258
 color:
-  saturation: 0.5624261817429215
-  brandStrength: 0.6291800925973803
   lightness: 0.8865279611200094
   brandColors:
     - '#012A1C'
@@ -21,20 +31,12 @@ color:
     - '#4B7B54'
     - '#9FBE82'
     - '#E2E6C4'
+  saturation: 0.5624261817429215
+  brandStrength: 0.6291800925973803
   rhythmicContrast: 0.4155636362265795
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-favicon: null
-name: jonahbsanders
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5115046475548297
-layout_spectrum: 0.9032258
+content: []
+content_rating:
+  adult: false
+typography_spectrum: 0
+opengraph: {}
+title: Jonah And The Idea
